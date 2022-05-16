@@ -1,2 +1,5 @@
 *.sfd~
 package-lock.json
+fonts/**/*.ttf
+fonts/**/*.woff
+fonts/**/*.woff2
